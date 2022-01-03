@@ -9,8 +9,8 @@
 
 | Degree     | Study         | Year  |
 | ------------- |:-------------:| -----:|
-| M.S.      | Applied Artificial Intelligence               | 2021 |
-| M.S.      | Biotechnology specializing in Bioinformatics  | 2021 |
+| M.S.      | Applied Artificial Intelligence               | 2022 |
+| M.S.      | Biotechnology specializing in Bioinformatics  | 2022 |
 | B.S.      | Biochemistry                                  | 2017 |
 #### Additional Education
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
