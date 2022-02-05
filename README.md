@@ -6,6 +6,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there! I am currently...
 - 🥅 2022 Goal - Graduate and contribute to Bioinformatics and AI-related projects
 - ⚡ Fun fact - I love to breakdance, kickboxing, and VR games
+- Pinned Projects beneath this description
 
 | Degree     | Study         | Year  |
 | ------------- |:-------------:| -----:|
